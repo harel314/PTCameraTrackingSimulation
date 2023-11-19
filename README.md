@@ -1,5 +1,5 @@
 # PT Camera Tracking Simulation 
-This project was part of Cornell Course MA4810 final project and presents a 3D simulation of a PT camera model that detects cars and track their speed. It can also detect violation of speed limit given by the user. The projet is implemented in MATLAB and trained with synthetic data. 
+This project was part of Cornell Course MA4810 final project and presents a 3D simulation of a PT camera model that detects cars and track their speed. It can also detect violation of speed limit given by the user. The project is implemented in MATLAB and trained with synthetic data. 
 
 ![Simulation](simulation.gif)
 

@@ -12,7 +12,7 @@ Hope you will enjoy it :)
 ## QUICK START
 
 1. Clone the repository
-2. run ```main.m``` in matlab
+2. run ```main.m``` in MATLAB
 
 ## TRACKER
 

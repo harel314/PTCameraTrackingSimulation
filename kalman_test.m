@@ -1,3 +1,4 @@
+addpath("utils")
 radius = 0.5; 
 
 % Number of points

@@ -3,7 +3,7 @@ This project was part of Cornell Course MA4810 final project and presents a 3D s
 
 ![Simulation](simulation.gif)
 
-The detection is based on YoloV4 implementation in MATLAB and trained on custom data.
+The detection is based on YoloV4 implementation in MATLAB and transfer-learned on custom data.
 
 The tracker is based on implementation of 2D discrete time second order Kalman Filter.
 
